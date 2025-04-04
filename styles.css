@@ -145,3 +145,8 @@ h2 {
     width: 322px;
     height: 193px;
 }
+
+.img-fluid img-inicio{
+    width: 700 px;
+    height: 900 px;
+}
